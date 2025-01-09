@@ -1,0 +1,1 @@
+Simple image-slider built with html, javascript and css
